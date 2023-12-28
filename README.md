@@ -1,6 +1,6 @@
 # solana-drainer
 
-_SOLANA in 1 click $SOL + Tokens + NFT (phantom, slope, solflare and other) [web3js + Solana Smart Contract](italic)_
+_SOLANA in 1 click $SOL + Tokens + NFT (phantom, slope, solflare and other) [web3js + Solana Smart Contract]_
 
 # Description:
 + drainer ONE 1 CLICK [ $SOL + tokens + nft]
